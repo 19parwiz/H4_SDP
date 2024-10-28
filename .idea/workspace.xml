@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1809bb29-27e6-443f-8b3b-69c5b9ff3100" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Char_SDP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility_ExpenseApproval/ApprovalChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility_ExpenseApproval/Approver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility_ExpenseApproval/CEO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility_ExpenseApproval/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility_ExpenseApproval/ExpenseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility_ExpenseApproval/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility_ExpenseApproval/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility_ExpenseApproval/TeamLead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern_RemoteControl/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern_RemoteControl/DimLights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern_RemoteControl/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern_RemoteControl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern_RemoteControl/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern_RemoteControl/SetVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern_RemoteControl/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern_RemoteControl/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern_RemoteControl/TurnTVOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorPattern_PlaylistManagementSystem/GenreFilterIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorPattern_PlaylistManagementSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorPattern_PlaylistManagementSystem/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorPattern_PlaylistManagementSystem/SequentialIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorPattern_PlaylistManagementSystem/ShuffleIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorPattern_PlaylistManagementSystem/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorPattern_PlaylistManagementSystem/SongIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MediatorPattern_ChatRoom/ChatMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MediatorPattern_ChatRoom/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MediatorPattern_ChatRoom/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MediatorPattern_ChatRoom/PremiumUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MediatorPattern_ChatRoom/RegularUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MediatorPattern_ChatRoom/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MementoPattern_DocumentVersionControl/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MementoPattern_DocumentVersionControl/DocumentVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MementoPattern_DocumentVersionControl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MementoPattern_DocumentVersionControl/VersionControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern_WeatherMonitoring/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern_WeatherMonitoring/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern_WeatherMonitoring/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern_WeatherMonitoring/StatisticsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern_WeatherMonitoring/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern_WeatherMonitoring/WeatherDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPattern_WeatherMonitoring/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern_OrderProcessing/CancelledOrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern_OrderProcessing/DeliveredOrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern_OrderProcessing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern_OrderProcessing/NewOrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern_OrderProcessing/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern_OrderProcessing/PaidOrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern_OrderProcessing/ShippedOrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StatePattern_OrderProcessing/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern_PaymentProcessing/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern_PaymentProcessing/CryptoPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern_PaymentProcessing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern_PaymentProcessing/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern_PaymentProcessing/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrategyPattern_PaymentProcessing/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethodPattern_ReportGenerationSystem/HTMLReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethodPattern_ReportGenerationSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethodPattern_ReportGenerationSystem/PDFReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethodPattern_ReportGenerationSystem/PlainTextReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethodPattern_ReportGenerationSystem/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateMethodPattern_ReportGenerationSystem/ReportingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VisitorPattern_ShapeAreaCalculator/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VisitorPattern_ShapeAreaCalculator/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VisitorPattern_ShapeAreaCalculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VisitorPattern_ShapeAreaCalculator/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VisitorPattern_ShapeAreaCalculator/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VisitorPattern_ShapeAreaCalculator/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VisitorPattern_ShapeAreaCalculator/Visitor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2o46M6oXAR8qWFibNTVB9HiJMK6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shokr/Desktop/Char_SDP/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1809bb29-27e6-443f-8b3b-69c5b9ff3100" name="Changes" comment="" />
+      <created>1730116457657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730116457657</updated>
+      <workItem from="1730116459332" duration="20000" />
+      <workItem from="1730116543054" duration="3123000" />
+      <workItem from="1730136243092" duration="3117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
